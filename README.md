@@ -8,9 +8,9 @@ This repository contains the data source folder and creation data which is the i
 The name of database if : E_commerce_company 
 Different tables : 
 - source : customer.csv ==>  customer_table  
-           items.csv ==> items_table 
-           Orders.csv ==> Orders_table
-           Products.csv ==> Products_table 
+           items.csv ==> items_table  
+           Orders.csv ==> Orders_table  
+           Products.csv ==> Products_table  
 - All data insertion are made manually with sqlite studio
 # Customer Analysis.sql : 
 A sql file containing all response to questions from Construct an SQLite database Database.question2 to Sales. question3
