@@ -5,7 +5,7 @@ This repository is the answer of freetomove interview test ...
 - Jupyter notebook for customer segmentation
 #  Data input handling : 
 This repository contains the data source folder and creation data which is the integration of inputs data into sql schema 
-The name of database if : E_commerce_company 
+The name of database if : E_commerce_company   
 Different tables : 
 - source : customer.csv ==>  customer_table  
            items.csv ==> items_table  
